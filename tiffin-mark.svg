@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="86 42 228 382" role="img" aria-label="Provisioned">
+  <!-- carrying handle -->
+  <path d="M158 118 C158 40 242 40 242 118"
+        fill="none" stroke="#c67139" stroke-width="19" stroke-linecap="round"/>
+
+  <!-- top lid -->
+  <rect x="94" y="112" width="212" height="28" rx="14" fill="#a3552a"/>
+
+  <!-- tier 1: lip + body -->
+  <rect x="100" y="152" width="200" height="18" rx="9"  fill="#a3552a"/>
+  <rect x="110" y="168" width="180" height="64" rx="13" fill="#c67139"/>
+
+  <!-- tier 2 -->
+  <rect x="100" y="242" width="200" height="18" rx="9"  fill="#a3552a"/>
+  <rect x="110" y="258" width="180" height="64" rx="13" fill="#c67139"/>
+
+  <!-- tier 3 -->
+  <rect x="100" y="332" width="200" height="18" rx="9"  fill="#a3552a"/>
+  <rect x="110" y="348" width="180" height="68" rx="15" fill="#c67139"/>
+</svg>
