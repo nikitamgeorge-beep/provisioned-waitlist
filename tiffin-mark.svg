@@ -1,7 +1,11 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="86 42 228 382" role="img" aria-label="Provisioned">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="86 42 228 390" role="img" aria-label="Provisioned">
   <!-- carrying handle -->
   <path d="M158 118 C158 40 242 40 242 118"
         fill="none" stroke="#c67139" stroke-width="19" stroke-linecap="round"/>
+
+  <!-- side clamp rails, hugging the stack and tucked under the lid -->
+  <rect x="93"  y="126" width="11" height="298" rx="5.5" fill="#a3552a"/>
+  <rect x="296" y="126" width="11" height="298" rx="5.5" fill="#a3552a"/>
 
   <!-- top lid -->
   <rect x="94" y="112" width="212" height="28" rx="14" fill="#a3552a"/>
